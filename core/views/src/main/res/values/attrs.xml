@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <attr name="progressbar_start_and_center_color" format="color" />
+    <declare-styleable name="ProgressButton">
+        <attr name="text" format="string" />
+        <attr name="loading" format="boolean" />
+        <attr name="enabled" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="AmiraliImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_circle_background_color" format="color" />
+    </declare-styleable>
+
+    <attr name="dot_button_color" format="color" />
+
+    <declare-styleable name="ClockWidget">
+        <attr name="background" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="DotProgressBarView">
+        <attr name="dot_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="PalPhoneClock">
+        <attr name="reverse" format="boolean"/>
+        <attr name="text_color" format="color" />
+        <attr name="app_name" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="IndicatorLayout">
+        <attr name="num_indicator" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="BorderImageView">
+        <attr name="src" format="reference" />
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="stroke_color" format="color" />
+        <attr name="stroke_width" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="PalphoneButton">
+        <attr name="button_enable_icon" format="reference" />
+        <attr name="button_disable_icon" format="reference" />
+        <attr name="button_enable_text" format="string" />
+        <attr name="button_disable_text" format="string" />
+        <attr name="button_enable_background_color" format="color" />
+        <attr name="button_disable_background_color" format="color" />
+        <attr name="button_enable_text_color" format="color" />
+        <attr name="button_disable_text_color" format="color" />
+        <attr name="button_radius" format="dimension" />
+        <attr name="button_elevation" format="dimension" />
+        <attr name="progress_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="PalphoneCircleProgress">
+        <attr name="pal_indicator_circle_max" format="integer" />
+        <attr name="pal_indicator_circle_progress" format="integer" />
+        <attr name="pal_indicator_circle_indicatorColor" format="color" />
+        <attr name="pal_indicator_circle_indicatorSize" format="dimension" />
+        <attr name="pal_indicator_circle_trackColor" format="color" />
+        <attr name="pal_indicator_circle_trackCornerRadius" format="dimension" />
+        <attr name="pal_indicator_circle_trackThickness" format="dimension" />
+    </declare-styleable>
+</resources>

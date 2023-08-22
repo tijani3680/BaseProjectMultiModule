@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="Theme.Template" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="progressbar_start_and_center_color">@color/solitude_2</item>
+    </style>
+    <style name="CustomToast" parent="@android:style/Widget">
+        <item name="android:background">@drawable/background_toast</item>
+    </style>
+</resources>

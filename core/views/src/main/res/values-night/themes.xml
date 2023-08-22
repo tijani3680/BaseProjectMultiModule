@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Template" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="progressbar_start_and_center_color">@color/san_juan</item>
+    </style>
+</resources>

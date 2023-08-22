@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="solitude_2">#E2E8F0</color>
+    <color name="san_juan">#424D5F</color>
+    <color name="we_peep">#FEE2E2</color>
+    <color name="falu_red">#991B1B</color>
+    <color name="saddle_brown">#9A3412</color>
+    <color name="papaya_whip">#FFEDD5</color>
+    <color name="alice_blue">#DBEAFE</color>
+    <color name="magic_mint">#D1FAE5</color>
+    <color name="back_noInternet">#FEE2E2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cloud_burst">#374151</color>
+    <color name="gray">#EBF0F8</color>
+    <color name="indicator_active_color">#E11D48</color>
+    <color name="denim">#1860A5</color>
+</resources>
